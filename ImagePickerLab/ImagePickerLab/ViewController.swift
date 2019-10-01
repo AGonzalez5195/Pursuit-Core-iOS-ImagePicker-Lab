@@ -29,7 +29,7 @@ class ViewController: UIViewController {
          imageView.layer.cornerRadius = imageView.frame.size.width/2
          imageView.clipsToBounds = true
          imageView.layer.borderColor = UIColor.black.cgColor
-         imageView.layer.borderWidth = 7.0
+         imageView.layer.borderWidth = 4.0
      }
     
     override func viewDidLoad() {
